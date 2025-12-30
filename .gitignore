@@ -1,3 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# Data / outputs
+*.csv
+*.zip
+*.tar.gz
+
+# Models
+*.pkl
+*.joblib
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -211,3 +235,6 @@ practice_hall/*.csv
 practice_hall/house_price_prediction_/*.csv
 Machine_learning/data/
 practice_hall/house_prices.csv
+=======
+venv/
+>>>>>>> cdf74a9 (Setup Data Science project structure and updated .gitignore)
