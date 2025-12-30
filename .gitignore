@@ -238,3 +238,6 @@ practice_hall/house_prices.csv
 =======
 venv/
 >>>>>>> cdf74a9 (Setup Data Science project structure and updated .gitignore)
+=======
+Assignments/
+>>>>>>> b2220fd (Move Assignments to separate repo)
