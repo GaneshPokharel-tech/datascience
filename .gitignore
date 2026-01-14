@@ -208,3 +208,5 @@ __marimo__/
 .DS_Store
 .DS_Store
 practice_hall/*.csv
+practice_hall/house_price_prediction_/*.csv
+Machine_learning/data/
